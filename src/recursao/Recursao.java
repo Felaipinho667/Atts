@@ -14,7 +14,7 @@ public class Recursao {
         }
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
-    public static int potencia(int base, int expoente) {
+    public static int potencia(int base, int expoente) {''
         
         if (expoente == 0) {
             return 1;
